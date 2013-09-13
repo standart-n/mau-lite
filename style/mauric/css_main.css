@@ -20,9 +20,16 @@ height:50%;
 background:url(../../img/mauric/bg_snail.jpg) no-repeat center;
 }
 
+.header-caption {
+font-family:Optima,Verdana;
+font-size:18px;
+font-weight:normal;
+color:#872929;
+}
+
 div#nav {
 position:absolute;
-top:50%;
+top:30px;
 left:0;
 display:block;
 float:left;
